@@ -1,2 +1,1 @@
-// Interface atelier protégée
 export default function Atelier() { return <h1>Espace Atelier</h1>; }

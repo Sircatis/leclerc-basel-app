@@ -1,2 +1,1 @@
-// Page d'accueil temporaire
 export default function Home() { return <h1>Bienvenue sur G. Leclerc App</h1>; }
