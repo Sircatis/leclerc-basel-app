@@ -1,0 +1,2 @@
+// Démo de schéma interactif
+export default function Demo() { return <h1>Démo Schéma Cliquable</h1>; }
